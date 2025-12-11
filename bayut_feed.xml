@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <Property>
+    <Property_Ref_No><![CDATA[1234]]></Property_Ref_No>
+    <Permit_Number><![CDATA[12786]]></Permit_Number>
+    <Property_Status><![CDATA[live]]></Property_Status>
+    <Property_purpose><![CDATA[Rent]]></Property_purpose>
+    <Property_Type><![CDATA[Apartment]]></Property_Type>
+    <Property_Size><![CDATA[32452]]></Property_Size>
+    <Property_Size_Unit><![CDATA[SQFT]]></Property_Size_Unit>
+    <Bedrooms><![CDATA[2]]></Bedrooms>
+    <Bathrooms><![CDATA[2]]></Bathrooms>
+    <Off_Plan><![CDATA[No]]></Off_Plan>
+    <Portals>
+      <Portal><![CDATA[Bayut]]></Portal>
+      <Portal><![CDATA[dubizzle]]></Portal>
+    </Portals>
+    <Last_Updated><![CDATA[2025-12-04 13:44:47]]></Last_Updated>
+    <Property_Title><![CDATA[Bayut Listing #2]]></Property_Title>
+    <Property_Description><![CDATA[Simply fill in the form with your property and contact details. We will share them with one of our trusted partner agents who will contact you directly.]]></Property_Description>
+    <Property_Title_AR><![CDATA[اختبار]]></Property_Title_AR>
+    <Property_Description_AR><![CDATA[اختبار]]></Property_Description_AR>
+    <Price><![CDATA[53264]]></Price>
+    <Rent_Frequency><![CDATA[daily]]></Rent_Frequency>
+    <Furnished><![CDATA[Yes]]></Furnished>
+    <City><![CDATA[Dubai]]></City>
+    <Locality><![CDATA[Aurelia Residence]]></Locality>
+    <Sub_Locality><![CDATA[D-405]]></Sub_Locality>
+    <Tower_Name><![CDATA[ Dubai Sports City]]></Tower_Name>
+    <Listing_Agent><![CDATA[Test Bayut]]></Listing_Agent>
+    <Listing_Agent_Phone><![CDATA[+971234567890]]></Listing_Agent_Phone>
+    <Listing_Agent_Email><![CDATA[T.abc@test.com]]></Listing_Agent_Email>
+  </Property>
+  <Property>
+    <Property_Ref_No><![CDATA[22]]></Property_Ref_No>
+    <Permit_Number><![CDATA[451]]></Permit_Number>
+    <Property_Status><![CDATA[live]]></Property_Status>
+    <Property_purpose><![CDATA[Buy]]></Property_purpose>
+    <Property_Type><![CDATA[Villa]]></Property_Type>
+    <Property_Size><![CDATA[12456]]></Property_Size>
+    <Property_Size_Unit><![CDATA[SQFT]]></Property_Size_Unit>
+    <Bedrooms><![CDATA[7]]></Bedrooms>
+    <Bathrooms><![CDATA[8]]></Bathrooms>
+    <Off_Plan><![CDATA[No]]></Off_Plan>
+    <Portals>
+      <Portal><![CDATA[Bayut]]></Portal>
+      <Portal><![CDATA[dubizzle]]></Portal>
+    </Portals>
+    <Last_Updated><![CDATA[2025-12-04 13:40:20]]></Last_Updated>
+    <Property_Title><![CDATA[Bayut Listing #4]]></Property_Title>
+    <Property_Description><![CDATA[Horizon Hills Real Estate presents an exquisite opportunity with this stunning property. .   Post Handover Payment Plan:- Down Payment: 30% During Construction: 34% On Handover: 2%]]></Property_Description>
+    <Property_Title_AR><![CDATA[اختبار]]></Property_Title_AR>
+    <Property_Description_AR><![CDATA[اختبار]]></Property_Description_AR>
+    <Price><![CDATA[2345]]></Price>
+    <Furnished><![CDATA[Yes]]></Furnished>
+    <Images>
+      <Image><![CDATA[https://www.bayut.com/property/details-13568112.html]]></Image>
+    </Images>
+    <City><![CDATA[Dubai]]></City>
+    <Locality><![CDATA[Aurelia Residence]]></Locality>
+    <Sub_Locality><![CDATA[A-25]]></Sub_Locality>
+    <Tower_Name><![CDATA[Dubai Sports City]]></Tower_Name>
+    <Listing_Agent><![CDATA[Nashrudin Test]]></Listing_Agent>
+    <Listing_Agent_Phone><![CDATA[+971234567890]]></Listing_Agent_Phone>
+    <Listing_Agent_Email><![CDATA[N.abc@test.com]]></Listing_Agent_Email>
+  </Property>
+  <Property>
+    <Property_Ref_No><![CDATA[231]]></Property_Ref_No>
+    <Permit_Number><![CDATA[234]]></Permit_Number>
+    <Property_Status><![CDATA[live]]></Property_Status>
+    <Property_purpose><![CDATA[Buy]]></Property_purpose>
+    <Property_Type><![CDATA[Apartment]]></Property_Type>
+    <Property_Size><![CDATA[2342]]></Property_Size>
+    <Property_Size_Unit><![CDATA[SQFT]]></Property_Size_Unit>
+    <Bedrooms><![CDATA[4]]></Bedrooms>
+    <Bathrooms><![CDATA[3]]></Bathrooms>
+    <Off_Plan><![CDATA[No]]></Off_Plan>
+    <Portals>
+      <Portal><![CDATA[Bayut]]></Portal>
+      <Portal><![CDATA[dubizzle]]></Portal>
+    </Portals>
+    <Last_Updated><![CDATA[2025-12-04 13:34:21]]></Last_Updated>
+    <Property_Title><![CDATA[Bayut data]]></Property_Title>
+    <Property_Description><![CDATA[Elite Venture Properties is pleased to present this 2-Bedroom apartment situated within the popular community of Aurelia Residence in Dubai Sports City. The property offers a practical layout, natural light, and a comfortable living space close to key amenities. ]]></Property_Description>
+    <Property_Title_AR><![CDATA[هذه هي عضويتي]]></Property_Title_AR>
+    <Property_Description_AR><![CDATA[هذه هي عضويتي]]></Property_Description_AR>
+    <Price><![CDATA[2400]]></Price>
+    <Furnished><![CDATA[Yes]]></Furnished>
+    <Images>
+      <Image><![CDATA[https://www.bayut.com/property/details-13580989.html]]></Image>
+      <Image><![CDATA[https://www.bayut.com/property/details-13240012.html]]></Image>
+    </Images>
+    <City><![CDATA[Dubai]]></City>
+    <Locality><![CDATA[Jumeirah Lakes Towers]]></Locality>
+    <Sub_Locality><![CDATA[Cluster C]]></Sub_Locality>
+    <Tower_Name><![CDATA[Pretoni Tower]]></Tower_Name>
+    <Listing_Agent><![CDATA[Bayur Test]]></Listing_Agent>
+    <Listing_Agent_Phone><![CDATA[+971234567890]]></Listing_Agent_Phone>
+    <Listing_Agent_Email><![CDATA[abc@test.com]]></Listing_Agent_Email>
+  </Property>
+  <Property>
+    <Property_Ref_No><![CDATA[]]></Property_Ref_No>
+    <Permit_Number><![CDATA[2345]]></Permit_Number>
+    <Property_Status><![CDATA[live]]></Property_Status>
+    <Property_purpose><![CDATA[Rent]]></Property_purpose>
+    <Property_Type><![CDATA[Villa]]></Property_Type>
+    <Property_Size><![CDATA[3214]]></Property_Size>
+    <Property_Size_Unit><![CDATA[SQFT]]></Property_Size_Unit>
+    <Bedrooms><![CDATA[2]]></Bedrooms>
+    <Bathrooms><![CDATA[2]]></Bathrooms>
+    <Off_Plan><![CDATA[No]]></Off_Plan>
+    <Portals>
+      <Portal><![CDATA[Bayut]]></Portal>
+      <Portal><![CDATA[dubizzle]]></Portal>
+    </Portals>
+    <Last_Updated><![CDATA[2025-12-11 17:44:06]]></Last_Updated>
+    <Property_Title><![CDATA[testing bayut]]></Property_Title>
+    <Price><![CDATA[21232]]></Price>
+    <Rent_Frequency><![CDATA[weekly]]></Rent_Frequency>
+    <Furnished><![CDATA[Yes]]></Furnished>
+    <City><![CDATA[dubai]]></City>
+    <Locality><![CDATA[near central mall]]></Locality>
+    <Sub_Locality><![CDATA[test]]></Sub_Locality>
+    <Tower_Name><![CDATA[abc]]></Tower_Name>
+    <Listing_Agent><![CDATA[xyz]]></Listing_Agent>
+    <Listing_Agent_Phone><![CDATA[1234567890]]></Listing_Agent_Phone>
+    <Listing_Agent_Email><![CDATA[abc@test.com]]></Listing_Agent_Email>
+  </Property>
+</Properties>
