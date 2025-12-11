@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <Property>
+    <Property_Ref_No><![CDATA[2]]></Property_Ref_No>
+    <Property_Status><![CDATA[live]]></Property_Status>
+    <Property_purpose><![CDATA[Buy]]></Property_purpose>
+    <Property_Type><![CDATA[Apartment]]></Property_Type>
+    <Property_Title><![CDATA[BM-S-0000021]]></Property_Title>
+    <Property_Description><![CDATA[Beautiful 2BR Type A apartment featuring sweeping city views, ample space, and refined finishes, designed for residents who appreciate style, comfort, and a premium urban lifestyle!  Discover refined urban living in this spacious 2BR Type A apartment, thoughtfully designed with modern finishes and expansive windows that showcase stunning city views. The open layout creates a bright and inviting atmosphere, complemented by high-quality interiors that offer both comfort and elegance. Ideally located in a vibrant residential community, residents enjoy easy access to nearby retail, dining, and leisure destinations. Perfect for families or professionals seeking a stylish home with exceptional urban convenience. ]]></Property_Description>
+    <City><![CDATA[Abu Dhabi ]]></City>
+    <Locality><![CDATA[Al Raha Beah]]></Locality>
+    <Sub_Locality><![CDATA[Lamar Residences ]]></Sub_Locality>
+    <Tower_Name><![CDATA[Tower A]]></Tower_Name>
+    <Images/>
+    <Property_Size><![CDATA[1365 ]]></Property_Size>
+    <Property_Size_Unit><![CDATA[SQFT]]></Property_Size_Unit>
+    <Bedrooms><![CDATA[1]]></Bedrooms>
+    <Bathrooms><![CDATA[2]]></Bathrooms>
+    <Price><![CDATA[1821000]]></Price>
+    <Furnished><![CDATA[No]]></Furnished>
+    <Off_Plan><![CDATA[No]]></Off_Plan>
+    <Last_Updated><![CDATA[2025-12-10 11:22:59]]></Last_Updated>
+    <Listing_Agent><![CDATA[Ruth Sesaldo ]]></Listing_Agent>
+    <Listing_Agent_Phone><![CDATA[+971561036474]]></Listing_Agent_Phone>
+    <Listing_Agent_Email><![CDATA[ruth.sesaldo@bmbrokers.ae]]></Listing_Agent_Email>
+    <Portals>
+      <Portal><![CDATA[Bayut]]></Portal>
+      <Portal><![CDATA[dubizzle]]></Portal>
+    </Portals>
+  </Property>
+  <Property>
+    <Property_Ref_No><![CDATA[4]]></Property_Ref_No>
+    <Property_Status><![CDATA[live]]></Property_Status>
+    <Property_purpose><![CDATA[Rent]]></Property_purpose>
+    <Property_Type><![CDATA[Apartment]]></Property_Type>
+    <Property_Title><![CDATA[RELAAM-L-000001 -TEST]]></Property_Title>
+    <Property_Description><![CDATA[]]></Property_Description>
+    <City><![CDATA[Abu Dhabi]]></City>
+    <Locality><![CDATA[Al Danah]]></Locality>
+    <Sub_Locality><![CDATA[]]></Sub_Locality>
+    <Tower_Name><![CDATA[]]></Tower_Name>
+    <Images/>
+    <Property_Size><![CDATA[1722]]></Property_Size>
+    <Property_Size_Unit><![CDATA[SQFT]]></Property_Size_Unit>
+    <Bedrooms><![CDATA[3]]></Bedrooms>
+    <Bathrooms><![CDATA[3]]></Bathrooms>
+    <Price><![CDATA[115000]]></Price>
+    <Rent_Frequency><![CDATA[annually]]></Rent_Frequency>
+    <Furnished><![CDATA[No]]></Furnished>
+    <Off_Plan><![CDATA[No]]></Off_Plan>
+    <Permit_Number><![CDATA[20250000714581]]></Permit_Number>
+    <Last_Updated><![CDATA[2025-12-10 11:07:47]]></Last_Updated>
+    <Portals>
+      <Portal><![CDATA[Bayut]]></Portal>
+      <Portal><![CDATA[dubizzle]]></Portal>
+    </Portals>
+  </Property>
+</Properties>
